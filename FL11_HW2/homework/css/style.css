@@ -100,11 +100,7 @@
 		background-color:#87CEFA;
 		color: #FFFFFF;
 	}
-	/*#home + section .tm-content-box {
-		display: flex;
-		align-items: center;
-	}
-	*/
+	
 	.tm-content-box,
     .tm-sidebar,
     .blocks {
@@ -136,6 +132,7 @@
    	border-left: 20px solid lightskyblue; 
    	border-top: 20px solid lightskyblue;
 	}
+    .tm-content-box.flex-2-col { display: flex; }
 
 	section.heading.tm-content-box>div>h2 {
     text-align: center;
