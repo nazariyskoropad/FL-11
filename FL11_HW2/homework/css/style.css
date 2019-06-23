@@ -100,11 +100,11 @@
 		background-color:#87CEFA;
 		color: #FFFFFF;
 	}
-	#home + section .tm-content-box {
+	/*#home + section .tm-content-box {
 		display: flex;
 		align-items: center;
 	}
-	
+	*/
 	.tm-content-box,
     .tm-sidebar,
     .blocks {
@@ -206,9 +206,6 @@
     	background-color: #F2F2F2;
     }
 
-    .tm-content-box {
-       box-shadow: none;
-    }
 
     h2+p{
     	font-style:italic;
