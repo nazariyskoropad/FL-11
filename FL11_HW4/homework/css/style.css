@@ -244,7 +244,7 @@ main .img-article-2 .heading {
 
 main .img-article-2 .secondArticle {
     display: flex;
-    flex-direction: raw;
+    flex-direction: row;
     margin-bottom: 80px;
 }
 
