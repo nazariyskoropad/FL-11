@@ -1,4 +1,3 @@
-// Your code goes here
 const a = Number( prompt('Please enter a') );
 const b = Number( prompt('Please enter b') );
 const c = Number( prompt('Please enter c') );
